@@ -1,9 +1,95 @@
+title: Subjective beliefs and economic preferences during the COVID-19 pandemic
+authors:
+  - name: Harrison, W. Glenn
+    orcid: 0000-0003-1837-8020
+  - name: Hofmeyr, Andre
+    orcid: 0000-0003-3771-1917 
+  - name: Kincaid, Harold
+    orcid: 0000-0001-5032-815X
+  - name: Monroe, Brian
+    orcid: 0000-0003-0830-9793  
+  - name: Ross, Don
+    orcid: 0000-0003-1813-3111
+  - name: Schneider, Mark
+    orcid: 0000-0002-5800-3613  
+  - name: Swarthout, J. Todd
+    orcid: 0000-0002-9096-5513  
+article:
+  doi: https://doi.org/10.1007/s10683-021-09738-3
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00431R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/4zvbg/
+
+---
+
+title: The cost of a divided America: an experimental study into destructive behavior
+authors:
+  - name: Mill, Wladislav
+    orcid: 0000-0001-8411-378X
+  - name: Morgan, John
+    orcid:  
+article:
+  doi: https://doi.org/10.1007/s10683-021-09737-4
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00356R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.3886/E152281V1
+
+---
+  
+title: Feature weighted categorized play across symmetric games
+authors:
+  - name: LiCalzi, Marco
+    orcid: 
+  - name: Muehlenbernd, Roland
+    orcid: 0000-0002-3669-4003 
+article:
+  doi: https://doi.org/10.1007/s10683-021-09742-7
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00286R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.6084/m9.figshare.17081408
+
+---
+
+title: Higher-order Learning
+authors:
+  - name: Evdokimov, Piotr
+    orcid: 
+  - name: Garfagnini, Umberto
+    orcid: 0000-0001-8492-5067 
+article:
+  doi: https://doi.org/10.1007/s10683-021-09743-6
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00384R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/osf.io/jp5su
+
+---
+
 title: Gender Preference Gaps and Voting for Redistribution
 authors:
   - name: Ranehill, Eva
-    orcid:
+    orcid: 0000-0003-1940-8949
   - name: Weber, Roberto
-    orcid:
+    orcid: 0000-0001-8133-8131
 article:
   doi: https://doi.org/10.1007/s10683-021-09741-8
   journal:
@@ -20,9 +106,9 @@ data:
 title: Decomposing coordination failure in stag hunt games
 authors:
   - name: Kendall, Ryan
-    orcid:
+    orcid: 0000-0001-9592-3534
 article:
-  doi:
+  doi: 
   journal:
     name: Experimental Economics
     manuscript: EXEX-D-21-00023R2
@@ -31,4 +117,181 @@ article:
     pages:
 data:
   doi: https://doi.org/10.7910/DVN/FPA10A
-  
+
+---
+
+title: Behavioral Welfare Economics and Risk Preferences: A Bayesian Approach
+authors:
+  - name: Xiaoxue, G. Sherry
+    orcid: 0000-0002-4081-387X
+  - name: Harrison, W. Glenn
+    orcid: 0000-0003-1837-8020
+  - name: Tchernis, Rusty
+    orcid:   
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00021R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/9FSAE
+
+---
+
+title: Present bias for monetary and dietary rewards
+authors:
+  - name: Cheunga, Stephen
+    orcid: 0000-0001-9374-8357
+  - name: Tymulaa, Agnieszka
+    orcid: 0000-0002-0521-8477 
+  - name: Xueting, Wan
+    orcid: 0000-0002-6092-3662 
+article:
+  doi: https://doi.org/10.1007/s10683-022-09749-8
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00058R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/6RYGS
+
+---
+
+title: Revealing Good Deeds: Disclosure of Social Responsibility in Competitive Markets
+authors:
+  - name: Harrs, Sören
+    orcid: 0000-0002-7100-1057
+  - name: Rockenbach, Bettina
+    orcid: 0000-0003-2624-1964
+  - name: Wenner, Lukas
+    orcid: 0000-0002-5649-6354 
+article:
+  doi: https://doi.org/10.1007/s10683-022-09752-z
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00044R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/KZ2FH
+
+---
+
+title: A reassessment of the potential for loss-framed incentive contracts to increase productivity: a meta-analysis and a real-effort experiment
+authors:
+  - name: Ferraro. J, Paul 
+    orcid: 0000-0002-4777-5108
+  - name: Tracy. J, Dustin 
+    orcid: 0000-0002-9618-4507
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00202R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: http://doi.org/10.17605/OSF.IO/J5MA8
+
+---
+
+title: Ambiguity and Enforcement 
+authors:
+  - name: Calford, Evan
+    orcid: 0000-0002-9059-4847
+  - name: DeAngelo, Greg
+    orcid: 
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00107R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.7910/DVN/VHS9OT
+
+---
+
+title: What Drives Conditional Cooperation in Public Good Games?
+authors:
+  - name: Katuscak, Peter
+    orcid: 
+  - name: Miklanek, Tomas
+    orcid: 0000-0002-8775-9460
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00050R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: doi.org/10.5281/zenodo.5745354
+
+---
+
+title: Capital structure irrelevance in the laboratory: an experiment with complete and asymmetric information
+authors:
+  - name: Macias, Arturo
+    orcid: 0000-0002-1623-0957
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00002R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/3ygja/
+
+---
+
+title: Framing Effects on Risk-Taking Behavior: Evidence from a Field Experiment in Multiple Choice Tests
+authors:
+  - name: Balart, Pau
+    orcid: 0000-0002-9088-537X
+  - name: Esquerra, Lara
+    orcid: 0000-0003-0465-1890
+  - name: Hernandez-Arenaz, Iñigo
+    orcid: 0000-0001-5157-2787
+article:
+  doi: https://doi.org/10.1007/s10683-022-09748-9
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00371R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/jx2dn/ 
+
+---
+
+title: The Determinants of Multilateral Bargaining: A Comprehensive Analysis of Baron and Ferejohn Majoritarian Bargaining Experiments
+authors:
+  - name: Baranski-Madrigal, Andrzej
+    orcid: 0000-0001-5964-487X
+  - name: Morton, Rebecca
+    orcid: 
+article:
+  doi: https://doi.org/10.1007/s10683-021-09734-7
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00082R4
+    volume:
+    issue:
+    pages:
+data:
+  # Due to this being a meta-analysis, the available replication data are found in the Online Appendix and not in an public repository. 
+  doi: https://static-content.springer.com/esm/art%3A10.1007%2Fs10683-021-09734-7/MediaObjects/10683_2021_9734_MOESM1_ESM.pdf
